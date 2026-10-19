@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <link rel="icon" href="website.jpeg" type="image/jfif">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WEBSITE CECyMagic </title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <style>
+    .card-img-top{
+        height: 700px;
+        object-fit: cover;
+    }
+     .card{
+        height: 100%;
+     }
+     h1{
+        color: #4B0082
+
+     }
+
+      h2{
+        color: #3d8200
+     }
+
+
+     p{
+        color: #cc0d76;
+        text-align: justify;
+        font-family: Arial, sans-serif;
+     }
+
+    </style> 
+</head>
+ 
+<body>
+        <div class="container text-center my-5">
+        <h1>Riqueza Natural</h1>
+        <h2>Lugares Bellos De Valle De Bravo</h2>
+        </div>
+
+        <div class="container my-5">
+        <div class="row g-4">
+
+        <div class="col-md-4">
+        <div class="card h-100 shadow">
+           
+         
+           
+        <div class="card-body text-center">
+            <h5 class="card-title">
+            La Laguna Negra </h5>
+            <p class="card-text">
+            "La Laguna Negra (también conocida como el Circuito Laguna Negra) es un pequeño y apacible cuerpo de agua rodeado de naturaleza, ubicado en los alrededores de Valle de Bravo y cerca del municipio de Zacazonapan en el Estado de México.</p>
+
+<p>Características del lugar
+
+<p>• Origen del nombre: Recibe su nombre porque la sombra de los árboles de pino y encino proyectada sobre el agua le da un aspecto bello y misterioso.</p>
+<p>• Entorno natural: Está rodeada de un denso bosque de montaña con helechos, musgos y líquenes. En la zona es común ver ardillas grises, escuchar aves como el carpintero de bellota y apreciar los reflejos del follaje en el agua.</p>
+<p>• Acceso: La entrada a la vereda y al circuito es libre y gratuita.</p>
+
+<p>Actividades y rutas de senderismo
+
+Es un sitio muy visitado para el ecoturismo y el deporte al aire libre:
+<p>• Circuito Laguna Negra: Un sendero que rodea la laguna, ideal para caminar o disfrutar del bosque.</p>
+<p>• Senderismo y BTT (Ciclismo de montaña): Existen rutas populares como el recorrido Laguna Negra - Los Pozos, el cual tiene una distancia aproximada de 12.7 km, una dificultad moderada y un tiempo estimado de 3 horas y media, disponible para consulta en AllTrails.</p>
+<p>• Recomendaciones: El terreno consta de senderos de tierra, hojarasca, raíces y piedras con pendientes moderadas. En época de lluvias las orillas suelen ser muy húmedas y resbaladizas, por lo que se recomienda usar calzado cerrado con buen agarre y llevar agua."</p>
+
+        <img src="img 2.jpeg"
+            class="card-img-top"
+            alt="imagen 1">
+        </div>
+        </div>
+        </div>
+
+         <div class="col-md-4">
+        <div class="card h-100 shadow">
+        
+           
+        <div class="card-body text-center">
+            <h5 class="card-title">
+            La Peña </h5>
+            <p class="card-text">
+            <p>El Mirador La Peña es un imponente monolito de origen volcánico y uno de los atractivos naturales y culturales más importantes de Valle de Bravo, Estado de México."</p>
+
+             <p>Historia y características
+
+<p>• Origen prehispánico: Fue habitado por los matlatzincas y se cree que los antiguos pobladores realizaban rituales terapéuticos y temazcales en el lugar.</p>
+<p>• La Cima: En lo más alto hay una gran cruz desde la que se obtienen vistas panorámicas de 360 grados del pueblo, las montañas y el lago (Presa Miguel Alemán).</p>
+<p>• Leyenda local: Se cuenta que durante la Guerra de Independencia, familias españolas ocultaron tesoros y oro en la zona antes de huir.</p>
+
+<p>Actividades Recomendadas
+
+<p>• Senderismo: Ascenso por senderos empinados, escalones de piedra y tramos con raíces o cuerdas de apoyo (calificado como de dificultad moderada).</p>
+<p>• Vistas panorámicas: Desde la cima se obtiene una vista de 360 grados que abarca el pueblo, la presa Miguel Alemán Valdés y las montañas.</p>
+<p>• Escalada en roca y rapel: Existen paredes verticales utilizadas por deportistas de aventura.</p>
+<p>• Paseos cercanos: Al bajar, puedes visitar el templo de Santa María Ahuacatlán (que resguarda el Cristo Negro) o trasladarte a la orilla del lago para rentar lanchas, kayaks o veleros.</p>
+
+ <img src="img 3.jpeg"
+            class="card-img-top"
+            alt="imagen 2">
+        </div>
+        </div>
+        </div>
+
+        
+         <div class="col-md-4">
+        <div class="card h-100 shadow">
+        
+           
+        <div class="card-body text-center">
+            <h5 class="card-title">
+            Cascada Velo De Novia</h5>
+            <p class="card-text">
+            <p>La Cascada Velo de Novia es uno de los principales atractivos naturales del Pueblo Mágico de Valle de Bravo, ubicada en la zona de Avándaro</p>
+            <p>• Ubicación: Se encuentra a unos 20 minutos en automóvil del embarcadero municipal de Valle de Bravo (a unos 8–10 kilómetros, tomando la carretera hacia Avándaro).</p>
+            <p>• A pie / Senderismo: Desde la entrada del parque hay un sendero arbolado de baja/moderada dificultad de menos de 2 km que lleva directamente a la base de la cascada. Existe también una ruta de senderismo más extensa de ida y vuelta (4.7 km, aprox. 1.5 a 2 horas) que conecta hacia la zona de la Presa Valle de Bravo.</p>
+
+            <p>Recomendaciones
+
+<p>• Mejor época para visitar: Durante la temporada de lluvias (verano y otoño), cuando el caudal de agua es mucho más abundante.</p>
+<p>• Calzado: Lleva zapatos cómodos y antiderrapantes, ya que los caminos de tierra pueden volverse lodosos y resbalosos.</p>
+<p>• Instalaciones: El parque cuenta con áreas verdes, mesas, bancas y asadores para días de campo, además de puestos de comida y artesanías locales.</p>
+
+ <img src="img 1.jpeg"
+            class="card-img-top"
+            alt="imagen 3">
+        </div>
+        </div>
+        </div>
