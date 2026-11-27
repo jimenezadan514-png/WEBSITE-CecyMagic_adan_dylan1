@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <link rel="icon" href="website.jpeg" type="image/jfif">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>historia </title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <style>
+     .card-img-top{
+        height: auto;
+        object-fit: cover;
+    }
+     .card{
+        height: 100%;
+     }
+     h1{
+        color: #001182
+     }
+     P{
+        color:#141313;
+        text-align: justify;
+     }
+    </style> 
+</head>
+ 
+<body>
+        <div class="container text-center my-5">
+        <h1>VEN A VISITARNOS!!!.EN VALLE DE BRAVO </h1>
+        </div>
+
+        <div class="container my-5">
+        <div class="row g-4">
+
+        <div class="col-md-6">
+        <div class="card h-100 shadow">
+      
+
+<div class="card-body text-center">
+            <h5 class="card-title">
+            HISTORIA  </h5>
+            <p class="card-text">
+               <h1 style="color:rgb(100, 178, 237);">VALLE DE BRAVO ANTIGUO</h1>
+<p>Valle de Bravo, Estado de México
+Han sido varios los nombres que se le han dado a Valle de Bravo desde la llegada de los frailes franciscanos a su territorio, el primero de ellos fue San Francisco del Valle de Temascaltepec (Temascaltepec de Indios), Villa del Valle y Valle de Bravo, aunque para distinguir entre el primero de éstos y real de minas de Temascaltepec, se optó por llamarle simplemente Valle.</p>
+
+<img src="Valle.jpg"
+           class="card-img-top"
+           alt="Imagen 2">
+        </div>
+        </div>
+        </div>
+
+         <div class="col-md-6">
+        <div class="card h-100 shadow">
+        
+           
+        <div class="card-body text-center">
+          
+<p style="color:brown">Características:</p>
+
+<p>*Se incorporó al programa Pueblos Mágicos en el año 2005.</p>
+
+<p>*Su clima es templado todo el año y está rodeado de hermosos paisajes boscosos que en sus cercanías también son el refugio invernal de la mariposa monarca.</p>
+
+<p>*Su nombre original era Pameje, de origen mazahua, el cual cambió durante los primeros años de la Colonia cuando recibió el título de San Francisco del Valle de Temascaltepec, para que años después, durante la segunda mitad del siglo XIX, adoptara el sencillo nombre con que ahora lo conocemos en honor al general Nicolás Bravo.</p>
+          <img src="Valle1.jpg"
+           class="card-img-top"
+           alt="Imagen 2">
+       </div>
+        </div>
+        </div>
+
+    </body>
+    </html>
